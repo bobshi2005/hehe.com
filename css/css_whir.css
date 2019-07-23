@@ -365,7 +365,8 @@ a:hover{ text-decoration:none;color: #4073d2;}
 .ideaBox dl:last-child{padding-bottom:0; margin-bottom:0; border-bottom:none;}
 .ideaBox dl .pic{width:323px; float:left; border-radius:20px; overflow:hidden;}
 .ideaBox dl .pic img{display:block; width:100%;}
-.ideaBox dl .txt{width:824px; float:right; padding:62px 0px 0px; line-height:30px;}
+.ideaBox dl .txt{width:824px; float:left; padding:10px 0px 0px; line-height:30px;position: relative;left: 20%;}
+/*.ideaBox dl .txt{width:824px; float:right; padding:62px 0px 0px; line-height:30px;}*/
 .ideaBox dl .txt h2{font-size:24px; line-height:40px; color:#009fe8;}
 .ideaBox dl .txt .info{font-size:14px; color:#555555; margin:25px 0px 0px;}
 .ideaBox dl:nth-child(2n) .pic{float:right;}
